@@ -3,8 +3,9 @@
 ## 経緯
 
 - 2021年11月19日：オンラインイベント「[〈NFTアート〉の可能性と課題](https://youtu.be/OUghCqYDf7w)」での議論において、〈NFTアート〉に関する態度をステートメントとして表明すべきなのではないかというアイデアが生まれ、議論を継続するためのコミュニティとして[Discordサーバー](https://discord.gg/emA5wDxUeq)を作成。
-- 2021年12月16日：Twitter Spacesでオンラインイベント「#NFTアートのステートメント を考え始めてみようという会：第1回」を開催（[議事録](https://note.com/_kotobuki_/n/n93feb44260ab)）。
-- 2021年12月28日：Twitter Spacesでオンラインイベント「#NFTアートのステートメント を考え始めてみようという会：第2回」を開催（[議事録](https://note.com/_kotobuki_/n/n605132ceb7f3)）。
+- 2021年12月16日：Twitter Spacesでオンラインイベント「`#NFTアートのステートメント`を考え始めてみようという会：第1回」を開催（[議事録](https://note.com/_kotobuki_/n/n93feb44260ab)）。
+- 2021年12月28日：Twitter Spacesでオンラインイベント「`#NFTアートのステートメント`を考え始めてみようという会：第2回」を開催（[議事録](https://note.com/_kotobuki_/n/n605132ceb7f3)）。
+- 2022年1月12日：Twitter Spacesでオンラインイベント「`#NFTアートのステートメント`を考え始めてみようという会：第3回」を開催（[議事録前篇](https://note.com/_kotobuki_/n/n1a7ece896506)・[議事録後篇](https://note.com/_kotobuki_/n/n1c87840ee286)）。
 
 ## 目的
 
@@ -23,6 +24,7 @@
 - November 19, 2021: During the discussion at the online event “The Possibilities and Challenges of ‘NFT Art,’” the idea arose that we should make a statement about our attitude toward NFT art; thus, we created the Discord server as a community to continue the discussion.
 - December 16, 2021: Held an online event “Let’s start making a statement about ‘NFT art’: 1st meeting” on Twitter Spaces.
 - December 28, 2021: Held an online event “Let’s start making a statement about ‘NFT art’: 2nd meeting” on Twitter Spaces.
+- January 12, 2022: Held an online event “Let’s start making a statement about ‘NFT art’: 3rd meeting” on Twitter Spaces.
 
 ## Goal
 
