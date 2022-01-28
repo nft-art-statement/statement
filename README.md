@@ -1,11 +1,12 @@
-﻿# 〈NFTアート〉のステートメント【草案】 | Statement for ‘NFT art’ (draft)
+﻿# 〈NFTアート〉への共同ステートメント | Community Statement on “NFT Art”
 
 ## 経緯
 
 - 2021年11月19日：オンラインイベント「[〈NFTアート〉の可能性と課題](https://youtu.be/OUghCqYDf7w)」での議論において、〈NFTアート〉に関する態度をステートメントとして表明すべきなのではないかというアイデアが生まれ、議論を継続するためのコミュニティとして[Discordサーバー](https://discord.gg/emA5wDxUeq)を作成。
-- 2021年12月16日：Twitter Spacesでオンラインイベント「`#NFTアートのステートメント`を考え始めてみようという会：第1回」を開催（[議事録](https://note.com/_kotobuki_/n/n93feb44260ab)）。
-- 2021年12月28日：Twitter Spacesでオンラインイベント「`#NFTアートのステートメント`を考え始めてみようという会：第2回」を開催（[議事録](https://note.com/_kotobuki_/n/n605132ceb7f3)）。
-- 2022年1月12日：Twitter Spacesでオンラインイベント「`#NFTアートのステートメント`を考え始めてみようという会：第3回」を開催（[議事録前篇](https://note.com/_kotobuki_/n/n1a7ece896506)・[議事録後篇](https://note.com/_kotobuki_/n/n1c87840ee286)）。
+- 2021年12月16日：Twitter Spacesでオンラインイベント「`#NFTアートのステートメント` を考え始めてみようという会：第1回」を開催（[議事録](https://note.com/_kotobuki_/n/n93feb44260ab)）。
+- 2021年12月28日：Twitter Spacesでオンラインイベント「`#NFTアートのステートメント` を考え始めてみようという会：第2回」を開催（[議事録](https://note.com/_kotobuki_/n/n605132ceb7f3)）。
+- 2022年1月12日：Twitter Spacesでオンラインイベント「`#NFTアートのステートメント` を考え始めてみようという会：第3回」を開催（[議事録前篇](https://note.com/_kotobuki_/n/n1a7ece896506)・[議事録後篇](https://note.com/_kotobuki_/n/n1c87840ee286)）。
+- 2022年1月28日：[公開レビュー](https://docs.google.com/document/d/1K08oXkuM6mNofxx73TxM3QUoe5MRjxqQa-eOTLUEO8E/edit?usp=sharing)開始
 
 ## 目的
 
@@ -13,9 +14,9 @@
 
 ## 予定
 
-- GitHub（参加できない場合はDiscordサーバー）でステートメントの草稿を基に議論し、最終版へと進める。
-- 平行して、賛同する人々が各自のウォレットで署名できる仕組みを準備する。
-- ステートメントの最終版が完成し、署名の仕組みが準備できたところでWebサイトを公開し、賛同する人々が署名する。
+- 2022年2月11日：公開レビュー終了
+- 2022年2月16日：公開ミーティング最終回（Twitter Spaces）
+- 2022年2月20日：Webサイト公開・署名開始
 
 ---
 
@@ -25,6 +26,7 @@
 - December 16, 2021: Held an online event “Let’s start making a statement about ‘NFT art’: 1st meeting” on Twitter Spaces.
 - December 28, 2021: Held an online event “Let’s start making a statement about ‘NFT art’: 2nd meeting” on Twitter Spaces.
 - January 12, 2022: Held an online event “Let’s start making a statement about ‘NFT art’: 3rd meeting” on Twitter Spaces.
+- January 28, 2022: [Public review](https://docs.google.com/document/d/1K08oXkuM6mNofxx73TxM3QUoe5MRjxqQa-eOTLUEO8E/edit?usp=sharing) began
 
 ## Goal
 
@@ -32,6 +34,6 @@
 
 ## Plan
 
-- Discuss based on the draft statement on GitHub (or Discord server if you can't join) and proceed to the final version.
-- In parallel, prepare a system where supporters can sign the statement with their wallets.
-- When we achieve the final version of the statement and the signature system is ready, publish the website and allow supporters to sign the statement.
+- 2022.02.11: End of public review
+- 2022.02.16: Final public meeting (on Twitter Spaces)
+- 2022.02.20: Publish the website and start signing
