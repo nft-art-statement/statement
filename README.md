@@ -7,6 +7,7 @@
 - 2021年12月28日：Twitter Spacesでオンラインイベント「`#NFTアートのステートメント` を考え始めてみようという会：第2回」を開催（[議事録](https://note.com/_kotobuki_/n/n605132ceb7f3)）。
 - 2022年1月12日：Twitter Spacesでオンラインイベント「`#NFTアートのステートメント` を考え始めてみようという会：第3回」を開催（[議事録前篇](https://note.com/_kotobuki_/n/n1a7ece896506)・[議事録後篇](https://note.com/_kotobuki_/n/n1c87840ee286)）。
 - 2022年1月28日：[公開レビュー](https://docs.google.com/document/d/1K08oXkuM6mNofxx73TxM3QUoe5MRjxqQa-eOTLUEO8E/edit?usp=sharing)開始
+- 2022年2月16日：Twitter Spacesでオンラインイベント「`#NFTアートのステートメント` を考え始めてみようという会：第4回」を開催。
 
 ## 目的
 
@@ -22,11 +23,12 @@
 
 ## How it happened
 
-- November 19, 2021: During the discussion at the online event “The Possibilities and Challenges of ‘NFT Art,’” the idea arose that we should make a statement about our attitude toward NFT art; thus, we created the Discord server as a community to continue the discussion.
-- December 16, 2021: Held an online event “Let’s start making a statement about ‘NFT art’: 1st meeting” on Twitter Spaces.
-- December 28, 2021: Held an online event “Let’s start making a statement about ‘NFT art’: 2nd meeting” on Twitter Spaces.
-- January 12, 2022: Held an online event “Let’s start making a statement about ‘NFT art’: 3rd meeting” on Twitter Spaces.
-- January 28, 2022: [Public review](https://docs.google.com/document/d/1K08oXkuM6mNofxx73TxM3QUoe5MRjxqQa-eOTLUEO8E/edit?usp=sharing) began
+- 2021.11.19: During the discussion at the online event “The Possibilities and Challenges of ‘NFT Art,’” the idea arose that we should make a statement about our attitude toward NFT art; thus, we created the Discord server as a community to continue the discussion.
+- 2021.12.16: Held an online event “Let’s start making a statement about ‘NFT art’: 1st meeting” on Twitter Spaces.
+- 2021.12.28: Held an online event “Let’s start making a statement about ‘NFT art’: 2nd meeting” on Twitter Spaces.
+- 2022.01.12: Held an online event “Let’s start making a statement about ‘NFT art’: 3rd meeting” on Twitter Spaces.
+- 2022.01.28: [Public review](https://docs.google.com/document/d/1K08oXkuM6mNofxx73TxM3QUoe5MRjxqQa-eOTLUEO8E/edit?usp=sharing) began
+- 2022.02.16: Held an online event “Let’s start making a statement about ‘NFT art’: 4th meeting” on Twitter Spaces.
 
 ## Goal
 
