@@ -28,9 +28,9 @@
 
 ---
 
-# Community Statement on “NFT Art”
+# Community Statement on “NFT art”
 
-What is called “NFT art” is now attracting attention. NFT (Non-Fungible Token) is a function based on the blockchain, a technology for socially implementing a ledger of records that is extremely difficult to falsify. By issuing an NFT linked to a physical or digital asset, it becomes possible to circulate the asset while recording its history. An intended use-case of NFTs is to function as a ‘certificate’ by issuing an NFT linked to an artwork. It is hoped that “NFT Art,” issued in this way, will contribute to the expansion of the sale and circulation of artworks. As the market heats up due to sufficient recognition of crypto-assets in society and the growing awareness of "NFT art," it has become a new attractive investment target in 2021.
+What is called “NFT art” is now attracting attention. NFT (Non-Fungible Token) is a function based on the blockchain, a technology for socially implementing a ledger of records that is extremely difficult to falsify. By issuing an NFT linked to a physical or digital asset, it becomes possible to circulate the asset while recording its history. An intended use-case of NFTs is to function as a ‘certificate’ by issuing an NFT linked to an artwork. It is hoped that “NFT art,” issued in this way, will contribute to the expansion of the sale and circulation of artworks. As the market heats up due to sufficient recognition of crypto-assets in society and the growing awareness of "NFT art," it has become a new attractive investment target in 2021.
 
 On the other hand, “NFT art” is still in its infancy and is prone to various confusions, making it a target of criticism. First of all, the answer to what “NFT art” is differs from person to person, and the only common point is that NFT is issued in connection with the artwork. Furthermore, there is often confusion because the rapid growth of the “NFT art” market has not yet been matched by customs and laws regarding the rights of valuable data as assets. For example, the purchase of an NFT does not automatically transfer or grant copyright rights to the purchaser of the NFT unless the copyright holder expressly states so through terms of sale or a license, etc. In addition, current Japanese law does not recognize ownership rights for digital works as it does for physical works in the first place. Thus, it is natural that the lack of definitions, customs, and laws can easily lead to confusion and criticism at this point.
 
@@ -41,7 +41,7 @@ Nevertheless, we believe that “NFT art” has the potential to become a drivin
 We, the “NFT artist,” will strive to do the following to ensure the continued development of the “NFT art” movement.
 
 - Be sincere with the “participants” of my/our “NFT art” work(s). For example, we do not tolerate fraud.
-- Clearly state the rights and benefits afforded to the holder of the “NFT Art,” including ownership and copyright terms. For example, choose and display an appropriate Creative Commons license.
+- Clearly state the rights and benefits afforded to the holder of the “NFT art,” including ownership and copyright terms. For example, choose and display an appropriate Creative Commons license.
 - Comply with the current legal system, and at the same time, focus on the possibility of updating current laws and customs, and actively advocate for them.
 
 ## Regarding definitions in the statement
